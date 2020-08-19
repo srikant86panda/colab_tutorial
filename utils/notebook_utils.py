@@ -1,6 +1,5 @@
 import os
 
-
 def is_jupyter():
     """Check if the module is running on Jupyter notebook/console
 
